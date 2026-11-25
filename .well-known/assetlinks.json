@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dezang2009.gamsung",
+      "sha256_cert_fingerprints": [
+        "8E:04:34:DB:BA:1F:97:D6:20:C2:9C:96:C1:9D:9F:30:69:F9:FC:3A:FE:93:CD:EF:9A:02:B4:79:42:6F:1E:B3"
+      ]
+    }
+  }
+]
